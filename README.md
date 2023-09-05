@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey there, I'm Leon! 🌙
 
-<!--
-**itsleonbro/itsleonbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/leonhlabathi">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/leonhlabathi">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:leonhlabathi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/leonhlabathi">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+
+
+---
+
+- 🎸 I love making music and coding
+- 🚗 Car enthusiast
+- 🌱 Currently learning Python
+
+---
