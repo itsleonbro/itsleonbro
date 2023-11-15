@@ -21,6 +21,6 @@
 
 - 🎸 I love making music and coding
 - 🚗 Car enthusiast
-- 🌱 Currently learning Python
+- 🌱 Currently learning Front-end Development
 
 ---
