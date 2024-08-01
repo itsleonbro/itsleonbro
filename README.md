@@ -16,6 +16,6 @@
 
 - 🎸 I love making music and coding
 - 🚗 Car enthusiast
-- 🌱 Currently learning Front-end Development
+- 🌱 Currently learning Full-stack Development at Zaio
 
 ---
