@@ -26,7 +26,7 @@
 ---
 ## 📊 GitHub Stats
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsleonbro&layout=donut-vertical&theme=tokyonight)](https://github.com/itsleonbro/github-readme-stats)
 
 
 ----
