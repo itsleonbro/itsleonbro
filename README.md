@@ -14,9 +14,10 @@
 
 ---
 
-- 🎸 I love making music and coding
+- 🎸 Music creator and passionate about coding
 - 🚗 Car enthusiast
-- 🌱 Currently learning Full-stack Web Development at Zaio
+- 💻 Full-stack Web Developer building cool apps
+- 🌱 Always learning and growing in tech
 
 ---
 ## 👨🏽‍💻 Tech Stack
